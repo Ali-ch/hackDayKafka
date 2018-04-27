@@ -1,0 +1,28 @@
+{
+  "cabinClass":"ECONOMY",
+  "discountCode":"",
+  "passengerCount":{
+    "YOUNG_ADULT":0,
+    "INFANT":0,
+    "CHILD":0,
+    "ADULT":1
+  },
+  "currency":"EUR",
+  "minimumAccuracy":"",
+  "requestedConnections":[
+    {
+      "origin":{
+        "airport":{
+          "code":"CDG"
+        }
+      },
+      "destination":{
+        "airport":{
+          "code":"SVO"
+        }
+      },
+      "departureDate":"2018-07-10"
+    }
+  ],
+  "shortest":false
+}
